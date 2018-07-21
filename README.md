@@ -11,8 +11,8 @@ This is a project developed with the React framework , it is a book tracking app
 
 ## What You're Getting
     
-* In this application , the main page displays a list of book shelfs orderd into 3 categories ('Currently Reading', 'Want to Read', 'Read'). 
-* The user can manage the books in the shelfs by moving them to the category of choice and also add new books to the library from the search function.
+* In this application , the main page displays a list of bookshelves ordered into 3 categories ('Currently Reading', 'Want to Read', 'Read'). 
+* The user can manage the books in the shelves by moving them to the category of choice and also add new books to the library from the search function.
 
 ## Important
 
