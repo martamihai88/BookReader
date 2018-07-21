@@ -6,8 +6,8 @@ This is a project developed with the React framework , it is a book tracking app
 
 * To run the project the user needs to clone or download the repository from: [Github-link](https://github.com/martamihai88/BookReader) and 
 * install all project dependencies with `npm install`.
-* To open the project the user needs to start the  server with `npm start` and visit http://localhost:8000 .
-* 
+* To open the project the user needs to start the  server with `npm start` and visit http://localhost:3000 .
+*
 
 ## What You're Getting
     
