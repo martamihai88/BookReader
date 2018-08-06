@@ -1,4 +1,4 @@
-# Book Reader Project Udacity Project
+# Book Reader Udacity Project
 
 This is a project developed with the React framework , it is a book tracking app that will let you search for books with the help of an API  and add them to your virtual library.
 
